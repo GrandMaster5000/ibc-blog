@@ -51474,6 +51474,8 @@ definitions:
     title: >-
       SignatureCounts contains information about signature reporting for a
       number of blocks
+  tolik22869.hackatom.blog.MsgSendIbcPostResponse:
+    type: object
   tolik22869.hackatom.blog.Params:
     type: object
     description: Params defines the parameters for the module.
