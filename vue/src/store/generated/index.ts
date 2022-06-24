@@ -20,6 +20,7 @@ import CosmosIbcGoIbcCoreChannelV1 from './cosmos/ibc-go/ibc.core.channel.v1'
 import CosmosIbcGoIbcCoreClientV1 from './cosmos/ibc-go/ibc.core.client.v1'
 import CosmosIbcGoIbcCoreConnectionV1 from './cosmos/ibc-go/ibc.core.connection.v1'
 import CosmosIbcGoIbcCorePortV1 from './cosmos/ibc-go/ibc.core.port.v1'
+import Tolik22869HackatomTolik22869HackatomBlog from './tolik22869/hackatom/tolik22869.hackatom.blog'
 import Tolik22869HackatomTolik22869HackatomHackatom from './tolik22869/hackatom/tolik22869.hackatom.hackatom'
 
 
@@ -44,6 +45,7 @@ export default {
   CosmosIbcGoIbcCoreClientV1: load(CosmosIbcGoIbcCoreClientV1, 'ibc.core.client.v1'),
   CosmosIbcGoIbcCoreConnectionV1: load(CosmosIbcGoIbcCoreConnectionV1, 'ibc.core.connection.v1'),
   CosmosIbcGoIbcCorePortV1: load(CosmosIbcGoIbcCorePortV1, 'ibc.core.port.v1'),
+  Tolik22869HackatomTolik22869HackatomBlog: load(Tolik22869HackatomTolik22869HackatomBlog, 'tolik22869.hackatom.blog'),
   Tolik22869HackatomTolik22869HackatomHackatom: load(Tolik22869HackatomTolik22869HackatomHackatom, 'tolik22869.hackatom.hackatom'),
   
 }
